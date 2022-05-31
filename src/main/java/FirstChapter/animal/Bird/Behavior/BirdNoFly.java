@@ -1,6 +1,6 @@
 package FirstChapter.animal.Bird.Behavior;
 
-public class NoFlyDuck implements FlyBehavior{
+public class BirdNoFly implements FlyBehavior{
 
     @Override
     public void fly(){

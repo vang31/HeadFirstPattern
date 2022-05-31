@@ -1,7 +1,7 @@
-import FirstChapter.animal.Bird.Behavior.RocketFlyDuck;
-import FirstChapter.animal.Bird.Duck.Duck;
-import FirstChapter.animal.Bird.Duck.MallardDuck;
-import FirstChapter.animal.Bird.Duck.ModelDuck;
+import strategy.animal.bird.behavior.RocketFlyDuck;
+import strategy.animal.bird.duck.Duck;
+import strategy.animal.bird.duck.MallardDuck;
+import strategy.animal.bird.duck.ModelDuck;
 
 public class Main {
     public static void main(String[] arg) {

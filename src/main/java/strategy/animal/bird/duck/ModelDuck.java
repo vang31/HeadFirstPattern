@@ -1,7 +1,7 @@
-package FirstChapter.animal.Bird.Duck;
+package strategy.animal.bird.duck;
 
-import FirstChapter.animal.Bird.Behavior.BirdNoFly;
-import FirstChapter.animal.Bird.Behavior.Quack;
+import strategy.animal.bird.behavior.BirdNoFly;
+import strategy.animal.bird.behavior.Quack;
 
 public class ModelDuck extends Duck{
 

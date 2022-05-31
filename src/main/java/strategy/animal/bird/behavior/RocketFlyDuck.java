@@ -1,4 +1,4 @@
-package FirstChapter.animal.Bird.Behavior;
+package strategy.animal.bird.behavior;
 
 public class RocketFlyDuck implements FlyBehavior{
     @Override

@@ -1,5 +1,5 @@
-import FirstChapter.animal.birds.Duck;
-import FirstChapter.animal.birds.MallardDuck;
+import FirstChapter.animal.Bird.Duck.Duck;
+import FirstChapter.animal.Bird.Duck.MallardDuck;
 
 public class Main {
     public static void main(String[] arg) {

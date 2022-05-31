@@ -1,4 +1,7 @@
-package FirstChapter.animal.birds;
+package FirstChapter.animal.Bird.Duck;
+
+import FirstChapter.animal.Bird.FlyWithWings;
+import FirstChapter.animal.Bird.Quack;
 
 public class MallardDuck extends Duck {
 

@@ -1,4 +1,4 @@
-package FirstChapter.animal.birds;
+package FirstChapter.animal.Bird;
 
 public class NoFlyDuck implements FlyBehavior{
 

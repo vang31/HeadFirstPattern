@@ -1,7 +1,7 @@
 package FirstChapter.animal.Bird.Duck;
 
-import FirstChapter.animal.Bird.FlyBehavior;
-import FirstChapter.animal.Bird.QuackBehavior;
+import FirstChapter.animal.Bird.Behavior.FlyBehavior;
+import FirstChapter.animal.Bird.Behavior.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
